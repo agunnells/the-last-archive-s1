@@ -1,0 +1,1310 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects.json",
+  "type": "AnnotationPage",
+  "label": "Sound Effects",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Faint sount of light footsteps in the background; sense that Lepore is walking somewhere",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "79.246929"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Footsteps are not only faint, but are creaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "123.068430"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Sound of a door opening as Lepore introduces 'the last archive'",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "153.418797"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Very faint sound of thunder in background?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "388.323150"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Sound of camera flashbulb going off",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "408.928550"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Clacking typewriter keys",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "630.489745"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Rhythmic ticking sound - very likely the ticking of a clock",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "646.272058"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Hooves clopping",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "678.819228"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Phone ringing",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "925.139973"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Sounds of a train chugging",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "982.391516"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Sounds of footsteps in hotel room",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1436.087661"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Sounds of shuffling paper",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1495.044577"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Continued use of creaking foostep sounds",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1521.484486"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Very faint sounds of a crowded room?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1580.350699"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Sounds of typewriters clacking and a gavel hitting",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1591.280405"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gavel banging and sounds of murmured surprise from crowd",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1805.702173"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Clacking typewriter",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1896.578758"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Background sounds of driving to the Vermont State Archives",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1917.531139"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Creaking doors and shuffling - but unlike other sound effects, these are left-in background noises from Lepore's actual visit to the state archives",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1974.719348"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Harold Jackson discovers body, gasps, and runs to inform a policeman",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "192.162922"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Crowd of people gathered around the dead body; prolonged scream",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "261.142513"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reporter's voice reading aloud what he is typing down about the case; note that Lepore is stating that this is how she imagines reporters talked",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "567.537071"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "A man's voice dramatically reading the options provided on a bill of mortality",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "785.467298"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Medical examiner reading out options from cause of death list; reading in a much more monotone voice",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "839.299497"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Dramatic voice returns for what Lepore would have chosen from the bill of mortality",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "853.324917"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Monotone voice of medical examiner returns for Lucina's listed cause of death",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "860.725652"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduction of James R. Wood, the outside detective hired to investigate Lucina's case",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "930.839030"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lepore first mentions James R. Wood's detective notebook; most of what his re-enacted voice says comes from the notebook itself",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1001.133815"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "James R. Wood's voice recounting some of the clues he wrote down in his notebook",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1133.597752"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Any time Lepore wants to recall something from James R. Wood's notebook, \"his\" voice is used",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1193.461698"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lucina Broadwell's \"voice\" used to read out a portion of a letter that she wrote to Grace Grimes",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1256.500246"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Re-creation of moments from James Wood's interrogation of George Long",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1475.502514"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Recreation of moments from George Long's trial; specifically, George long being questioned and giving testimony",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1628.155575"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The court calls James Wood to the stand to testify about his interrogation of Long",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1645.298432"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "James Wood is questioned by Long's lawyer about keeping Long for a four-day interrogation at the Barre Hotel",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1702.758750"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Jury reading out their verdict",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1800.083013"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Recreation of a portion of the interrogation between James Wood and George Long that could not be printed because it involves the use of birth control",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2087.792763"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "First descriptions of the last archive include a corridor of the mind, shelves stuffed with proof",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "75.510204"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lepore is describing the archive as if it is a physical space - items are cluttered, and some roll away under the shelf so she has to bend to pick them up",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "118.866213"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Primary goal: to uncover how we know what we know",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "147.256236"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Very vivid descriptions - Lucina's body is described as laying \"pale and animal\" against the grass",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "205.668934"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lucina described as a kill, something hunted, a fox in a trap, a fish on a hook, a bird on a  spit",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "210.169040"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Pointing to the stereotypes of so many murder mysteries",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "273.462036"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Using Lucina's case and other examples to ask the question \"Who killed truth?\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "325.745463"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lepore describes the visceral physical reaction she has to discovering the photo of Lucina's corpse",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "419.078796"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lepore is intent on describing Lucina as a silenced woman - she wants to make Lucina \"speak\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "447.740928"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lepore imagines the way a reporter would have sounded - she instills her own understandings/perspective into the \"investigation\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "549.509635"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lepore notes that the style of reporting used in the local newspaper resembles true crime fads of the time",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "620.983558"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Historians are coroners too\" - Lepore compares her investigation to an autopsy",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "720.439340"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-49.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Odd insistence of the poetry surrounding a \"bill of mortality\" - is Lepore doing the same type of romanticizing that she somewhat criticizes in true crime content?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "838.353172"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-50.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Labeling a clue as a type of fact - are they always the same?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1083.432538"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-51.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Assurance that we know something was said if it was written in the historical document - does this leave room for human error in recording what was said?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1268.992932"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-52.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Why does Lepore choose to re-enact something that we don't technically have firsthand knowledge of (i.e., the letter)?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1298.970257"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-53.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The assumption that the trial transcripts would be buried deep in the Vermont State Archives - upholding the idea of archives as buried treasure",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1903.159634"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-54.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The state archivist discusses the moment of discovery when you unearth something lost",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2029.191380"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-55.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lepore making an observation about what could be printed - details of the murder were not obscene, but details about birth control were",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2167.649430"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-56.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Archivist describing Barre as being weighted with history",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2309.917004"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-57.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Poignant moment where Lepore visits the site where Lucina's corpse was discovered",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2405.019045"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-58.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lepore discusses the fact that, for a long time, only men could serve on juries - only men could decide matters of fact",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2423.204986"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-59.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Women in Vermont were not allowed to jurors until 1943",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2479.078002"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-60.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lepore discusses Maude Wood Park - \"like me, she couldn't stand the thought of silenced women\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2490.098410"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-61.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lepore repeatedly describes Lucina's corpse as \"animal\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2536.039453"
+        }
+      }
+    }
+  ]
+}
