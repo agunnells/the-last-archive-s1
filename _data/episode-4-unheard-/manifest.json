@@ -30,6 +30,12 @@
             "id": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas/content.json",
             "label": "Content"
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas/reenactments.json",
+            "label": "Reenactments"
+          }
         ],
         "items": [
           {
