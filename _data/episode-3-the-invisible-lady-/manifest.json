@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Episode 3 \"The Invisible Lady\"" ] },
+    "homepage": [
+      {
+        "id": "https://podcasts.apple.com/us/podcast/the-invisible-lady/id1506207997?i=1000476045034",
+        "type": "Text",
+        "label": { "en": [ "Episode 3 \"The Invisible Lady\"" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://www.apple.com/apple-podcasts/",
+        "type": "Agent",
+        "label": { "en": [ "Apple Podcasts" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 2605.0,
+        "items": [
+          {
+            "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://utexas.box.com/shared/static/6vhb1bhizx1kfay2lieed6y2p0mp1hcg.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 2605.0
+                },
+                "target": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
