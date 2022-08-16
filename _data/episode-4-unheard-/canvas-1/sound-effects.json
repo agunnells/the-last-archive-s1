@@ -1,0 +1,134 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas/sound-effects.json",
+  "type": "AnnotationPage",
+  "label": "Sound Effects",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas/sound-effects-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Creaking footsteps and a door opening",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "69.795918"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas/sound-effects-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Sound clips from radio",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "78.594104"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas/sound-effects-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Background music like one would hear on the radio in those days",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "210.068027"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas/sound-effects-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Background sounds of chirping birds, insects, etc. ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "298.231293"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas/sound-effects-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Music playing in the background",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "673.778110"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas/sound-effects-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Background noise of birds chirping",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1849.620958"
+        }
+      }
+    }
+  ]
+}
