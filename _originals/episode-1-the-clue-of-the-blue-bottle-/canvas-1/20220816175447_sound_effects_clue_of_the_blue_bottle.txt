@@ -1,0 +1,19 @@
+79.246929	79.246929	Faint sount of light footsteps in the background; sense that Lepore is walking somewhere
+123.068430	123.068430	Footsteps are not only faint, but are creaking
+153.418797	153.418797	Sound of a door opening as Lepore introduces 'the last archive'
+388.323150	388.323150	Very faint sound of thunder in background?
+408.928550	408.928550	Sound of camera flashbulb going off
+630.489745	630.489745	Clacking typewriter keys
+646.272058	646.272058	Rhythmic ticking sound - very likely the ticking of a clock
+678.819228	678.819228	Hooves clopping
+925.139973	925.139973	Phone ringing
+982.391516	982.391516	Sounds of a train chugging
+1436.087661	1436.087661	Sounds of footsteps in hotel room
+1495.044577	1495.044577	Sounds of shuffling paper
+1521.484486	1521.484486	Continued use of creaking foostep sounds
+1580.350699	1580.350699	Very faint sounds of a crowded room?
+1591.280405	1591.280405	Sounds of typewriters clacking and a gavel hitting
+1805.702173	1805.702173	Gavel banging and sounds of murmured surprise from crowd
+1896.578758	1896.578758	Clacking typewriter
+1917.531139	1917.531139	Background sounds of driving to the Vermont State Archives
+1974.719348	1974.719348	Creaking doors and shuffling - but unlike other sound effects, these are left-in background noises from Lepore's actual visit to the state archives

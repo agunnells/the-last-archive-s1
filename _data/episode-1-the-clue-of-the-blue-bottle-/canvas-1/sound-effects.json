@@ -1,0 +1,386 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects.json",
+  "type": "AnnotationPage",
+  "label": "Sound Effects",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Footsteps are not only faint, but are creaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "123.068430"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Sound of a door opening as Lepore introduces 'the last archive'",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "153.418797"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Very faint sound of thunder in background?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "388.323150"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Sound of camera flashbulb going off",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "408.928550"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Clacking typewriter keys",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "630.489745"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Rhythmic ticking sound - very likely the ticking of a clock",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "646.272058"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Hooves clopping",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "678.819228"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Phone ringing",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "925.139973"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Sounds of a train chugging",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "982.391516"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Sounds of footsteps in hotel room",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1436.087661"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Sounds of shuffling paper",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1495.044577"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Continued use of creaking foostep sounds",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1521.484486"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Very faint sounds of a crowded room?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1580.350699"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Sounds of typewriters clacking and a gavel hitting",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1591.280405"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gavel banging and sounds of murmured surprise from crowd",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1805.702173"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Clacking typewriter",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1896.578758"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Background sounds of driving to the Vermont State Archives",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1917.531139"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Creaking doors and shuffling - but unlike other sound effects, these are left-in background noises from Lepore's actual visit to the state archives",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1974.719348"
+        }
+      }
+    }
+  ]
+}
