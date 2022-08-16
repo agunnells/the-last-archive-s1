@@ -1,0 +1,428 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas/content.json",
+  "type": "AnnotationPage",
+  "label": "Content",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas/content-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Unfortunately, it's a mess in here - half the time, I can't find what I came for\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "24.126984"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas/content-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lepore says she knows for sure that Ellison left New York that day, but she doesn't know if he listened to the radio while packing",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "124.353741"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas/content-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Discusses historical imagination - you can't make things up, but you do have to picture them",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "131.972789"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas/content-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Ellison was interested in sound, what you can notice by hearing and listening",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "164.943311"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas/content-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lepore is interviewing Diana Bates, daughter of Ellison's friend",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "241.315193"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas/content-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Also interviewing Diana's little sister, Grace",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "281.541950"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas/content-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lepore having Grace read the opening lines of Ellison's book - is Grace a white woman?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "422.639056"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas/content-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "This is the first time Lepore acknowledges we are actually listening to a recording of Ellison",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "727.610310"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas/content-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reels that can be unspooled, voices that can be heard in the last archive",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "856.363144"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas/content-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lepore states that when the last generation of those born into slavery were gone, the evidence of slavery from their memories would be lost",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "986.567226"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas/content-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"In the historical record, words spoken by black people are rare\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1093.233892"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas/content-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lepore raising questions about the \"truth\" of the oral histories - asking why so many former slaves said their owners were good to them",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1277.995797"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas/content-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lepore points out the leading questions in the oral histories",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1389.560423"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas/content-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lepore encouraging the listeners to use our historical imaginations",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1420.218019"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas/content-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lepore interviewing Isabella Wilkerson, who wrote about the great migration",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1520.444777"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas/content-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "We learn that the story we just heard was written down by Ellison - so it wasn't recorded orally?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1749.847715"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas/content-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Understanding folklore as a kind of evidence",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1799.552931"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas/content-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lepore describes Ellison as a radio playing the voice of every black person in the country",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1981.185584"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas/content-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lepore claims that Ellison didn't write another book because he was daunted that he himself had become evidence",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2095.788759"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas/content-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The Black Lives Matter movement is about evidence - capturing for whites what had been unheard, unseen, unknown?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-4-unheard-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2226.264949"
+        }
+      }
+    }
+  ]
+}
