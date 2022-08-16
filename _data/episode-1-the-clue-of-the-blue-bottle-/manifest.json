@@ -33,6 +33,12 @@
           ,
           {
             "type": "AnnotationPage",
+            "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects.json",
+            "label": "Sound Effects"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/reenactments.json",
             "label": "Reenactments"
           }
