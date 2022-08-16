@@ -1,0 +1,46 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Episode 1 \"The Clue of the Blue Bottle\"" ] },
+    "homepage": [
+      {
+        "id": "https://podcasts.apple.com/us/podcast/the-clue-of-the-blue-bottle/id1506207997?i=1000474572406",
+        "type": "Text",
+        "label": { "en": [ "Episode 1 \"The Clue of the Blue Bottle\"" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://www.apple.com/apple-podcasts/",
+        "type": "Agent",
+        "label": { "en": [ "Apple Podcasts" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 2683.0,
+        "items": [
+          {
+            "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://utexas.box.com/s/j3jguyxz1k4ny1n2itabti9ijdmidsqv",
+                    "duration": 2683.0
+                },
+                "target": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
