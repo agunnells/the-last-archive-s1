@@ -1,0 +1,176 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas/reenactments.json",
+  "type": "AnnotationPage",
+  "label": "Reenactments",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas/reenactments-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reenacting newspaper headlines about the arrival of the invisible lady",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "423.438886"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas/reenactments-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The eerie, far-away sound of the invisible lady's voice",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "486.205326"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas/reenactments-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Higginson reading out a portion of his essay on the invisible lady",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "785.388999"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas/reenactments-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The voice of Emily Dickinson reading out a portion of a letter she wrote to Higginson",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "857.044328"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas/reenactments-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Dickinson reading part of her poem, but this time in the faraway sound from the glass box",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "911.148636"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas/reenactments-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reading out newspaper reporting on Louisa Bayard being laid to rest",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1161.896936"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas/reenactments-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reenactment of a radio release by Hitler's press guy?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2018.676981"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas/reenactments-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Sound clips of Lepore and her producer talking to Alexa",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2388.846744"
+        }
+      }
+    }
+  ]
+}
