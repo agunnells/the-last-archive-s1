@@ -23,6 +23,14 @@
         "id": "https://agunnells.github.io/the-last-archive-s1/episode-2-detection-of-deception-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3130.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://agunnells.github.io/the-last-archive-s1/episode-2-detection-of-deception-/canvas-1/canvas/content.json",
+            "label": "Content"
+          }
+        ],
         "items": [
           {
             "id": "https://agunnells.github.io/the-last-archive-s1/episode-2-detection-of-deception-/canvas-1/paintings",
