@@ -23,14 +23,6 @@
         "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2683.0,
-        "annotations": [
-          
-          {
-            "type": "AnnotationPage",
-            "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/sound-effects.json",
-            "label": "Sound Effects"
-          }
-        ],
         "items": [
           {
             "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/paintings",
