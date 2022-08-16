@@ -27,6 +27,12 @@
           
           {
             "type": "AnnotationPage",
+            "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/content.json",
+            "label": "Content"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://agunnells.github.io/the-last-archive-s1/episode-1-the-clue-of-the-blue-bottle-/canvas-1/canvas/reenactments.json",
             "label": "Reenactments"
           }
