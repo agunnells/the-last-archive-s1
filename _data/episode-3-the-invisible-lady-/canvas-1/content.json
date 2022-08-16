@@ -1,0 +1,554 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas/content.json",
+  "type": "AnnotationPage",
+  "label": "Content",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas/content-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Different approach to the start of this episode - it sounds like Lepore is walking on the street trying to find a building",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "182.358277"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas/content-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "If you are trying to understand someone, you owe it to them to go to where they were and \"breathe their air\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "220.770975"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas/content-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "In search of the Shakespeare Gallery, where an invisible lady was put on display in 1804",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "254.739229"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas/content-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Interesting switch from previous podcasts - not starting out with reenactments",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "312.055666"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas/content-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The invisible lady is compared to Siri",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "373.597616"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas/content-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Why can women know things only when they're disembodied?\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "382.940019"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas/content-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Probably it sounded something like this\" - talking about the invisible lady's voice",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "486.205326"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas/content-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Distinguishing between mystery in the old sense versus the new sense - a secret to be discovered",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "589.198523"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas/content-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lepore says she is violating the one pledge of all mysticism - she is talking about how the box worked",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "634.096482"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas/content-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lepore argues that the invisible lady is all about the thrill of invading a woman's privacy",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "731.239339"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas/content-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lepore describes how she was poking around the last archive - she is making it into a physical space",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "761.171312"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas/content-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lepore argues that Higginson's article is about the Victorian \"fetish\" for privacy - for keeping women out of view",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "807.883330"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas/content-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"I like to think that when he got upset about the cult of the invisible lady, he was worrying about Dickinson\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "872.463829"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas/content-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"When I read Dickinson's poems, it's as if I can hear her speak to me from her box of glass\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "904.164509"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas/content-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Talks about turning over boxes, unlocking ancient trunks, etc. ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "964.345915"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas/content-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lepore assures us that everything we know about the funeral comes from a law journal article",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1179.447956"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas/content-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Equating a person who desired privacy with an invisible lady",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1237.679248"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas/content-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Discussing the 1890 law article about the right to privacy",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1399.674713"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas/content-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lepore reinforcing that the right to privacy is about keeping women unseen",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1451.647502"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas/content-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Connecting the right to privacy to Philosopher William James's concept of the hidden self",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1534.051131"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas/content-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"I watched it [The Invisible Man] dimly projected in the recesses of the last archive\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1593.688319"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas/content-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lengthy description of The Invisible Man (the movie) and multiple sound clips from the movie",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1952.645235"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas/content-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lepore connecting discussion to initial reactions to radio in the 1930s - the unsettling nature of a disembodied voice with music/sound effects",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1989.561335"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas/content-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Connecting concerns about radio to Nazi Germany",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2018.676981"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas/content-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Returning to the idea of Alexa and Siri as a the modern invisible ladies",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2345.581438"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas/content-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Alexa is described as \"evasive\"??",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-3-the-invisible-lady-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2388.846744"
+        }
+      }
+    }
+  ]
+}
