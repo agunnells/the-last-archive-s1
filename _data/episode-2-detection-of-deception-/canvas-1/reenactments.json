@@ -1,0 +1,260 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://agunnells.github.io/the-last-archive-s1/episode-2-detection-of-deception-/canvas-1/canvas/reenactments.json",
+  "type": "AnnotationPage",
+  "label": "Reenactments",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-2-detection-of-deception-/canvas-1/canvas/reenactments-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Beginning of a reenactment where WMM tests out the unreliability of eyewitnesses during his lecture",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-2-detection-of-deception-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "203.854875"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-2-detection-of-deception-/canvas-1/canvas/reenactments-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "WMM describing how the lie detector works (presumably to his students?) - Lepore then describes it as a movie scene that we would all be familiar with",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-2-detection-of-deception-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "509.387755"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-2-detection-of-deception-/canvas-1/canvas/reenactments-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Start to get a reenactment of a police interrogation",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-2-detection-of-deception-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "664.103786"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-2-detection-of-deception-/canvas-1/canvas/reenactments-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "We meet James Alphonso Frye",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-2-detection-of-deception-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "669.863423"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-2-detection-of-deception-/canvas-1/canvas/reenactments-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reenacting Frye writing about himself later",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-2-detection-of-deception-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "688.684284"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-2-detection-of-deception-/canvas-1/canvas/reenactments-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Verbal reenactment of a written transcript - we don't know what the voices would have sounded like",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-2-detection-of-deception-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "812.630739"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-2-detection-of-deception-/canvas-1/canvas/reenactments-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Switching back and forth between reenactment and Lepore's descriptions of the transcript",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-2-detection-of-deception-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "838.163619"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-2-detection-of-deception-/canvas-1/canvas/reenactments-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reenactment and Lepore's own take are that the admission was cautious - how do we know that?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-2-detection-of-deception-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "876.077451"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-2-detection-of-deception-/canvas-1/canvas/reenactments-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Actor playing Frye recounts his experience of being hooked up to the lie detector",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-2-detection-of-deception-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "938.345299"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-2-detection-of-deception-/canvas-1/canvas/reenactments-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Frye's \"voice\" recounting the ways in which he will be guilty no matter what",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-2-detection-of-deception-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1081.882659"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-2-detection-of-deception-/canvas-1/canvas/reenactments-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reenactment of the judge paints him as condescending towards the lie detector - do we know this for sure?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-2-detection-of-deception-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1287.357299"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://agunnells.github.io/the-last-archive-s1/episode-2-detection-of-deception-/canvas-1/canvas/reenactments-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Voice actor reading the Frye Test guidelines",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://agunnells.github.io/the-last-archive-s1/episode-2-detection-of-deception-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1899.148682"
+        }
+      }
+    }
+  ]
+}
