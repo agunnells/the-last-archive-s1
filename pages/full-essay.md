@@ -29,24 +29,28 @@ Let us pause here for a moment and consider these reenactments. We can acknowled
 
 Lepore’s reenactments reveal larger concerns regarding the ability to demonstrate “truth” for the audience. As scholars like Leslie McMurtry have noted, these types of podcasts blur the line between creative nonfiction and factual reporting.[^32] In particular, McMurtry argues that, even though these types of podcasts depict the lives and activities of real people, they “nonetheless become characters” when represented in the framework of radio drama podcasting.[^33] These characters range from the obscure – such as Frye in “Detection of Deception” – to well-known figures including Emily Dickinson in “The Invisible Lady.” For instance, an actress voicing Emily Dickinson reads a portion of Dickinson’s poem “I’m Nobody! Who Are You?” out loud.[^34] Again, the tone and pacing of the actresses’ voice is dramatized– we do not know how Dickinson would have actually sounded when reading her poem out loud. Indeed, Dickinson becomes a character in Lepore’s podcast, with her reading of the poem serving Lepore’s larger argument regarding the Victorian desire to keep women away from public life.[^35]
 
+So far, this paper has analyzed Lepore’s semi-fictional reenactments; in other words, this paper has considered Lepore’s dramatization of “known” events recorded in the archival objects housed in the last archive. However, Lepore goes beyond these “known” events, occasionally creating reenactments that are not based on any evidence from the last archive. Here, Lepore comes up against a primary challenge in the structure of contemporary podcasts; as Rebecca Ora argues in her analysis of Serial, the form and content of these podcasts “point at *absences* – of image, of evidence, and of truth…”[^36] While Lepore visualizes evidence for her listener in order to create an engaging narrative, she must deal with the gaps in the evidence she finds in the last archive. Lepore compensates for these absences in the last archive by going a step beyond reenacting moments from the archival objects. She includes reenactments based not on the evidence, but on her imagining of what might have happened.
 
-[^1]: Juan Ilerbaig, “Archives as sediments: metaphors of deposition and archival thinking,” Archival Science 21, no. 1 (2021): 84, https://doi.org/10.1007/s10502-020-09350-z.
+These reenactments of absences in the last archive range from the inconsequential to the significant. The fourth episode of the podcast, “Unheard,” covers how Ralph Ellison penned *Invisible Man*. Lepore opens the episode by recounting the day that Ellison left New York for Vermont: “Step through the door and into an apartment in Harlem where the writer Ralph Ellison is packing a suitcase while listening to the radio.”[^37] As listeners, we hear a radio flipping between various programs, as if someone is searching for a station. In addition, we hear the faint, barely distinguishable sounds of what may be footsteps or the noises of packing. However, Lepore quickly notes that, although she knows for sure that Ellison left New York that day, she does not know if he listened to the radio while he packed.[^38] Indeed, this brief reenactment is completely constructed by Lepore; while she can imagine how Ellison’s packing may have gone, there is no record of those moments. Lepore invents this moment from Ellison’s life, and we could argue that it is largely insignificant in the grand scheme of things – the question of whether Ellison listened to the radio or not while he packed does not create a serious impact on the larger questions Lepore asks in the episode. 
+
+
+[^1]: Juan Ilerbaig, “Archives as sediments: metaphors of deposition and archival thinking,” *Archival Science* 21, no. 1 (2021): 84, https://doi.org/10.1007/s10502-020-09350-z.
 [^2]: Ibid., 85.
 [^3]: Ibid., 88-9. 
-[^4]: Shannon Mattern, “Extract and Preserve: Underground Repositories for a Posthuman Future,” in New Geographies 09: Posthuman, ed. Mariano Gomez Luque and Ghazal Jafari (New York: Actar, 2018): 56.
-[^5]: Barbara Biesecker, “Of Historicity, Rhetoric: The Archive as Scene of Invention,” Rhetoric & Public Affairs 9, no. 1 (2006): 125.
+[^4]: Shannon Mattern, “Extract and Preserve: Underground Repositories for a Posthuman Future,” in *New Geographies 09: Posthuman*, ed. Mariano Gomez Luque and Ghazal Jafari (New York: Actar, 2018): 56.
+[^5]: Barbara Biesecker, “Of Historicity, Rhetoric: The Archive as Scene of Invention,” *Rhetoric & Public Affairs* 9, no. 1 (2006): 125.
 [^6]: Ibid.
-[^7]: Brien Brothman, “Afterglow: Conceptions of Record and Evidence in Archival Discourse,” Archival Science 2, no. 3 (2002): 316.
-[^8]: Jill Lepore, host, “The Clue of the Blue Bottle,” The Last Archive (podcast), May 14, 2020, accessed August 7, 2022, https://www.thelastarchive.com/season-1/episode-1-the-clue-of-the-blue-bottle.
+[^7]: Brien Brothman, “Afterglow: Conceptions of Record and Evidence in Archival Discourse,” *Archival Science* 2, no. 3 (2002): 316.
+[^8]: Jill Lepore, host, “The Clue of the Blue Bottle,” *The Last Archive* (podcast), May 14, 2020, accessed August 7, 2022, https://www.thelastarchive.com/season-1/episode-1-the-clue-of-the-blue-bottle.
 [^9]: Ilerbaig, 88-9.
 [^10]: Lepore, "The Clue of the Blue Bottle."
-[^11]: Jill Lepore, host, “The Invisible Lady,” The Last Archive (podcast), May 28, 2020, accessed August 7, 2022, https://www.thelastarchive.com/season-1/episode-3-the-invisible-lady.
-[^12]: Jill Lepore, host, “Unheard,” The Last Archive (podcast), June 4, 2020, accessed August 7, 2022, https://www.thelastarchive.com/season-1/episode-4-unheard.
+[^11]: Jill Lepore, host, “The Invisible Lady,” *The Last Archive* (podcast), May 28, 2020, accessed August 7, 2022, https://www.thelastarchive.com/season-1/episode-3-the-invisible-lady.
+[^12]: Jill Lepore, host, “Unheard,” *The Last Archive* (podcast), June 4, 2020, accessed August 7, 2022, https://www.thelastarchive.com/season-1/episode-4-unheard.
 [^13]: Lepore, "The Clue of the Blue Bottle."
 [^14]: Ibid.
 [^15]: Lepore, "The Invisible Lady."
-[^16]: Richard Hand and Mary Traynor, “Theories of Radio Drama,” in The Radio Drama Handbook: Audio Drama in Context and Practice (New York: Continuum International Publishing Group, 2011): 41.
-[^17]: Bonnie Miller, “‘The Pictures are Better on Radio’: A Visual Analysis of American Radio Drama from the 1920s to the 1950s,” Historical Journal of Film, Radio, & Television 38, no. 2 (2018): 323, https://doi.org/10.1080/01439685.2017.1332189.
+[^16]: Richard Hand and Mary Traynor, “Theories of Radio Drama,” in *The Radio Drama Handbook: Audio Drama in Context and Practice* (New York: Continuum International Publishing Group, 2011): 41.
+[^17]: Bonnie Miller, “‘The Pictures are Better on Radio’: A Visual Analysis of American Radio Drama from the 1920s to the 1950s,” *Historical Journal of Film, Radio, & Television* 38, no. 2 (2018): 323, https://doi.org/10.1080/01439685.2017.1332189.
 [^18]: For more on this topic, see Susan Douglas's book *Listening In: Radio and the American Imagination*.
 [^19]: Miller, 323.
 [^20]: Lepore, "The Clue of the Blue Bottle."
@@ -55,13 +59,16 @@ Lepore’s reenactments reveal larger concerns regarding the ability to demonstr
 [^23]: Hand and Traynor, 36.
 [^24]: Lepore, "The Clue of the Blue Bottle."
 [^25]: Ibid. 
-[^26]: Jill Lepore, host, “Detection of Deception,” The Last Archive (podcast), May 21, 2020, accessed August 7, 2022, https://www.thelastarchive.com/season-1/episode-2-detection-of-deception.
+[^26]: Jill Lepore, host, “Detection of Deception,” *The Last Archive* (podcast), May 21, 2020, accessed August 7, 2022, https://www.thelastarchive.com/season-1/episode-2-detection-of-deception.
 [^27]: Refer back to Brothman’s distinction between credibility and truth; credibility acknowledges the human component in creating archival documents. In other words, a document can be credible without being a single truthful recounting of an event.
-[^28]: Andrew Bottomley, “Podcasting, Welcome to Nightvale, and the Revival of Radio Drama,” Journal of Radio & Audio Media 22, no. 2 (2015): 182, doi: 10.1080/19376529.2015.1083370.
+[^28]: Andrew Bottomley, “Podcasting, Welcome to Nightvale, and the Revival of Radio Drama,” *Journal of Radio & Audio Media* 22, no. 2 (2015): 182, doi: 10.1080/19376529.2015.1083370.
 [^29]: Ibid., 185. 
 [^30]: Lepore, "Detection of Deception."
 [^31]: Ibid. 
-[^32]: Leslie McMurtry, “‘I’m Not a Real Detective, I Only Play one on Radio’: Serial as the Future of Audio Drama,” The Journal of Popular Culture 49, no. 2 (2016): 308.
+[^32]: Leslie McMurtry, “‘I’m Not a Real Detective, I Only Play one on Radio’: Serial as the Future of Audio Drama,” *The Journal of Popular Culture* 49, no. 2 (2016): 308.
 [^33]: Ibid., 313. 
 [^34]: Lepore, "The Invisible Lady."
 [^35]: Ibid. 
+[^36]: Rebecca Ora, “Invisible Evidence: Serial and the New Unknowability of Documentary,” in *Podcasting: New Aural Cultures and Digital Media*, ed. by Dario Llinares, Neil Fox, and Richard Barry (Cham: Palgrave Macmillan, 2018): 110.
+[^37]: Lepore, "Unheard."
+[^38]: Ibid. 
