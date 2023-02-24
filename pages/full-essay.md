@@ -55,41 +55,27 @@ This discussion is not meant to devalue the work Lepore does in this podcast; ra
 
 Jill Lepore’s podcast The Last Archive provides just one example of the ways in which contemporary podcasting interacts with the concept of archival evidence. Throughout this paper, I have attempted to draw out the tensions that arise between fact and fiction in the podcasting medium. Though Lepore builds her ethos on the evidentiary nature of the archival materials found in the last archive, she consistently utilizes dramatized reenactments to help the listener visualize this evidence. On the one hand, we must acknowledge that these reenactments do help keep Lepore’s audience engaged in the podcast. Yet, I argue that the lasting effects of her strategy extend beyond pure entertainment. By not framing her entanglements with fiction throughout the episodes discussed in this paper, Lepore presents one particular version of an event as a factual account. What we as listeners are left with may be a credible account of an event, but one that is nevertheless mediated through Lepore’s lived experiences as a white woman. Ultimately, a careful consideration of the ways in which archival evidence and dramatic reenactment intermingle throughout podcasts such as Lepore’s help us uncover how and why these stories are told.
 
-
+----
 
 ### Works Cited
 
-Biesecker, Barbara. “Of Historicity, Rhetoric: The Archive as Scene of Invention.” *Rhetoric & Public Affairs* 9, no. 1 (2006): 124-131. 
-
-Bottomley, Andrew. “Podcasting, Welcome to Nightvale, and the Revival of Radio Drama.” *Journal of Radio & Audio Media* 22, no. 2 (2015): 179-189. doi: 10.1080/19376529.2015.1083370. 
-
-Brothman, Brien. “Afterglow: Conceptions of Record and Evidence in Archival Discourse.” *Archival Science* 2, no. 3 (2002): 311-342.
-
-Douglas, Susan. *Listening In: Radio and the American Imagination*. Minneapolis: University of Minnesota Press, 1999.
-
-Hand, Richard, and Mary Traynor. “Theories of Radio Drama.” In *The Radio Drama Handbook: Audio Drama in Context and Practice*, 33-68. New York: Continuum, 2011. 
-
-Ilerbaig, Juan. “Archives as Sediments: Metaphors of Deposition and Archival Thinking,” *Archival Science* 21, no. 1 (2020): 83-95. 
-
-Kang, Jay Caspian. “White Reporter Privilege.” *The Awl* (blog). November 13, 2014. https://www.theawl.com/2014/11/white-reporter-privilege/. 
-
-Ora, Rebecca. “Invisible Evidence: Serial and the New Unknowability of Documentary.” In *Podcasting: New Aural Cultures and Digital Media*, edited by Dario Llinares, Neil Fox, and Richard Barry, 107-122. Cham: Palgrave Macmillan, 2018. 
-
-Lepore, Jill, host. “Detection of Deception.” *The Last Archive* (podcast). May 21, 2020. Accessed August 7, 2022. https://www.thelastarchive.com/season-1/episode-2-detection-of-deception. 
-
-Lepore, Jill, host. “The Clue of the Blue Bottle.” *The Last Archive* (podcast). May 14, 2020. Accessed August 7, 2022. https://www.thelastarchive.com/season-1/episode-1-the-clue-of-the-blue-bottle. 
-
-Lepore, Jill, host. “The Invisible Lady.” *The Last Archive* (podcast). May 28, 2020. Accessed August 7, 2022. https://www.thelastarchive.com/season-1/episode-3-the-invisible-lady.
-
-Lepore, Jill, host. “Unheard.” *The Last Archive* (podcast). June 4, 2020. Accessed August 7, 2022. https://www.thelastarchive.com/season-1/episode-4-unheard.
-
-Mattern, Shannon. “Extract and Preserve: Underground Repositories for a Posthuman Future.” In *New Geographies 09: Posthuman*, edited by Mariano Gomez Luque and Ghazal Jafari, 52-59. New York: Actar, 2018.
-
-McMurtry, Leslie. “‘I’m Not a Real Detective, I Only Play One on Radio’: Serial as the Future of Audio Drama.” *The Journal of Popular Culture* 49, no. 2 (2016): 306-324.
-
+Biesecker, Barbara. “Of Historicity, Rhetoric: The Archive as Scene of Invention.” *Rhetoric & Public Affairs* 9, no. 1 (2006): 124-131. <br>
+Bottomley, Andrew. “Podcasting, Welcome to Nightvale, and the Revival of Radio Drama.” *Journal of Radio & Audio Media* 22, no. 2 (2015): 179-189. doi: 10.1080/19376529.2015.1083370. <br>
+Brothman, Brien. “Afterglow: Conceptions of Record and Evidence in Archival Discourse.” *Archival Science* 2, no. 3 (2002): 311-342. <br>
+Douglas, Susan. *Listening In: Radio and the American Imagination*. Minneapolis: University of Minnesota Press, 1999. <br>
+Hand, Richard, and Mary Traynor. “Theories of Radio Drama.” In *The Radio Drama Handbook: Audio Drama in Context and Practice*, 33-68. New York: Continuum, 2011. <br> 
+Ilerbaig, Juan. “Archives as Sediments: Metaphors of Deposition and Archival Thinking,” *Archival Science* 21, no. 1 (2020): 83-95. <br>
+Kang, Jay Caspian. “White Reporter Privilege.” *The Awl* (blog). November 13, 2014. https://www.theawl.com/2014/11/white-reporter-privilege/. <br>
+Ora, Rebecca. “Invisible Evidence: Serial and the New Unknowability of Documentary.” In *Podcasting: New Aural Cultures and Digital Media*, edited by Dario Llinares, Neil Fox, and Richard Barry, 107-122. Cham: Palgrave Macmillan, 2018. <br>
+Lepore, Jill, host. “Detection of Deception.” *The Last Archive* (podcast). May 21, 2020. Accessed August 7, 2022. https://www.thelastarchive.com/season-1/episode-2-detection-of-deception. <br>
+Lepore, Jill, host. “The Clue of the Blue Bottle.” *The Last Archive* (podcast). May 14, 2020. Accessed August 7, 2022. https://www.thelastarchive.com/season-1/episode-1-the-clue-of-the-blue-bottle. <br>
+Lepore, Jill, host. “The Invisible Lady.” *The Last Archive* (podcast). May 28, 2020. Accessed August 7, 2022. https://www.thelastarchive.com/season-1/episode-3-the-invisible-lady. <br>
+Lepore, Jill, host. “Unheard.” *The Last Archive* (podcast). June 4, 2020. Accessed August 7, 2022. https://www.thelastarchive.com/season-1/episode-4-unheard. <br>
+Mattern, Shannon. “Extract and Preserve: Underground Repositories for a Posthuman Future.” In *New Geographies 09: Posthuman*, edited by Mariano Gomez Luque and Ghazal Jafari, 52-59. New York: Actar, 2018. <br>
+McMurtry, Leslie. “‘I’m Not a Real Detective, I Only Play One on Radio’: Serial as the Future of Audio Drama.” *The Journal of Popular Culture* 49, no. 2 (2016): 306-324. <br>
 Miller, Bonnie. “‘The Pictures are Better on Radio’: A Visual Analysis of American Radio Drama from the 1920s to the 1950s.” *Historical Journal of Film, Radio, & Television* 38, no. 2 (2018): 322-342. https://doi.org/10.1080/01439685.2017.1332189. 
 
-
+----
 
 [^1]: Juan Ilerbaig, “Archives as sediments: metaphors of deposition and archival thinking,” *Archival Science* 21, no. 1 (2021): 84, https://doi.org/10.1007/s10502-020-09350-z.
 [^2]: Ibid., 85.
